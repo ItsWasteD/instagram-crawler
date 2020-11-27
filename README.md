@@ -1,2 +1,2 @@
-# instgram-crawler
+# instagram-crawler
 Für Thiemo
